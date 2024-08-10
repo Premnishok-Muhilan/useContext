@@ -1,0 +1,36 @@
+/* MyAppBar styles */
+
+.appBarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: white;
+  color: black;
+}
+
+.titleContainer {
+  flex: 1;
+}
+
+.cartContainer {
+  display: flex;
+  align-items: center;
+}
+/* MyAppBar styles */
+
+/*Google Font styles*/
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  margin: 0px;
+  font-size: 3em;
+  font-weight: 400;
+  font-style: normal;
+}
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*Google Font styles*/
